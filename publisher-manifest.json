@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4ebb25c222ceb7f6e9c76fe7",
+  "owner": "efqpmqbd",
+  "repo": "page-805a7d4dad65fa0db8c99537",
+  "title": "娃哈哈",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "805a7d4dad65fa0db8c99537",
+      "a": "娃哈哈",
+      "b": "2027官方最新地址导航",
+      "entity": "娃哈哈",
+      "brand": "娃哈哈",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e2b91c3ea5025901184792e0bf9bb6bc5838e769bc013ec8418d2a21e68cbdea",
+      "content": {
+        "primary_entity": "娃哈哈",
+        "keyword1": "娃哈哈",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备类型选择客户端，桌面端和移动端订阅导入方式不同，按客户端文档配置即可。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择适合自己设备的套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置",
+          "AI_DESCRIPTION": "，面向需要海外网络加速的用户提供多档订阅选择，覆盖基础浏览到团队协作场景。基础版适合单人轻量使用，旗舰版兼顾流媒体与游戏加速，团队版支持多设备并发。按年付可节省费用，订阅后参考对应客户端文档导入配置。",
+          "AI_FEATURES_INTRO": "围绕套餐差异、设备数量与订阅周期三个维度说明选择方向。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量支持3台设备，旗舰版每月300GB支持5台设备，团队版每月1000GB支持20台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供IPLC专线游戏加速优化与全节点原生流媒体解锁，适合对延迟和画质有要求的场景。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付方案，年付价格分别为¥150、¥350和¥850，长期使用按年付更划算。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选",
+          "AI_FEATURE_TITLE_2": "按场景选线路",
+          "AI_FEATURE_TITLE_3": "按周期选付费",
+          "AI_GUIDE_INTRO": "从选服务到完成订阅配置，三步即可用上娃哈哈加速服务。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "娃哈哈海外加速器提供基础版、旗舰版和团队版三档订阅，分别对应轻量浏览、流媒体游戏加速和多设备团队协作。按年付可降低月均成本，订阅后根据设备类型选择客户端并导入配置。",
+          "AI_HERO_SUBTITLE": "多档订阅按设备灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖单人至团队",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线加速",
+          "AI_HIGHLIGHT_3": "年付方案节省月均开销",
+          "AI_PLANS_INTRO": "基础版每月100GB流量，旗舰版每月300GB并支持5台设备，团队版每月1000GB支持20台设备，按年付分别仅需¥150、¥350和¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常用量和设备数量，在基础版、旗舰版和团队版之间选定一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、并发设备数和线路特性，确认是否满足使用场景。",
+          "AI_STEP_TEXT_3": "按照所用设备的客户端文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "娃哈哈海外加速器",
+          "AI_FAQ_ANSWER_1": "每月 100GB 流量，最多 3 台设备同时在线，包含基础流媒体解锁与普通线路节点池，适合轻度使用。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 流量，支持 5 台设备同时在线，提供全节点原生流媒体解锁、IPLC 专线游戏加速优化和 7x24 优先工单支持。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台。可以根据常用设备数量选择对应套餐。",
+          "AI_FAQ_ANSWER_4": "可以。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。如果长期使用，年付比按月付费更节省。",
+          "AI_FAQ_ANSWER_5": "在客户端配置页面导入订阅链接，选择对应节点后保存即可。具体步骤可参考各客户端的配置文档。",
+          "AI_FAQ_INTRO": "套餐差异、设备限制与订阅导入。",
+          "AI_FAQ_QUESTION_1": "基础版包含哪些权益？",
+          "AI_FAQ_QUESTION_2": "旗舰版适合什么场景？",
+          "AI_FAQ_QUESTION_3": "套餐最多支持几台设备？",
+          "AI_FAQ_QUESTION_4": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_5": "如何导入订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "haizhou01.com",
+    "host": "haizhou01.com"
+  },
+  "file_hashes": {
+    "index.html": "ba98ada5a1ae2ecbff8e1f2990fcad35780eae2e6b0b02c9971475a78b5f7f21",
+    "sitemap.xml": "1aef798bd932c8fce51e43ffb1aae958d9b8d351a0293d54cc662971c6ed6a9c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f3732dbebfd80b920097ddb189dce0dfe501b2bbc73722814b0e4b4b993a6b71",
+    "robots.txt": "c390a5b83b48d10183fb6bb923c627a02fb470dc48b09c5b58ac1f6bdadb1cbe",
+    "53b33aa26c2da77010618ae53da71a8e.txt": "7e5f916bb820767463131caf7cdd75ca294bd055249f73475e6971690007e23e"
+  },
+  "revision": "070e43a3160fa8d9c11da1fc059a8c5e6536c1de09e1dcfcd66f778d9252f525"
+}
